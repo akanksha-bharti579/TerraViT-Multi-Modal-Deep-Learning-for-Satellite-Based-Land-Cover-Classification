@@ -1,0 +1,20 @@
+# TerraViT Framework Dependencies
+# Compatible with Windows, macOS, and Linux
+
+# Deep Learning Framework
+torch>=1.10.0
+torchvision>=0.11.0
+
+# Scientific Computing
+numpy>=1.21.0
+matplotlib>=3.5.0
+scikit-learn>=1.0.0
+
+# Utilities
+tqdm>=4.62.0
+PyYAML>=5.4.0
+albumentations>=1.3.0
+
+# Note: For full functionality with real satellite data (rasterio),
+# Linux/macOS users can install: pip install rasterio>=1.2.0
+# Windows users may need to install GDAL separately first

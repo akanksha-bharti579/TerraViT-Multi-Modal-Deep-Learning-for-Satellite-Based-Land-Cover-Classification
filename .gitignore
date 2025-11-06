@@ -1,0 +1,63 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environments
+terravit_env/
+examples/terravit_env/
+venv/
+env/
+ENV/
+.venv/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# PyTorch
+*.pth
+*.pt
+*.ckpt
+
+# Data
+data/
+*.zip
+*.tar.gz
+
+# Generated outputs
+*.png
+*.jpg
+*.jpeg
+!docs/*.png  # Keep documentation images if any
+
+# OS
+.DS_Store
+Thumbs.db
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+*.toc
+*.bbl
+*.blg
+
+# Temporary files
+*.tmp
+*.bak
+test_*.py
+
+
+
