@@ -436,10 +436,10 @@ pip install -e .
 If you use TerraViT in your research, please cite:
 
 ```bibtex
-@misc{terravit2025,
+@misc{terravit2024,
   title={TerraViT: Multi-Modal Deep Learning for Satellite-Based Land Cover Classification},
-  author={[Your Name]},
-  year={2025},
+  author={Akanksha Bharti},
+  year={2024},
   note={AI Course Project}
 }
 ```
@@ -465,8 +465,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 
 For questions or issues, please:
 - Open an issue on GitHub
-- Email: [your-email@example.com]
+- Email: akankshabharti12379@gmail.com
 
 ---
 
-**Last Updated:** [Current Date]
+**Last Updated:** December 2024

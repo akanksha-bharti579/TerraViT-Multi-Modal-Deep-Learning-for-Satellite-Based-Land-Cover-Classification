@@ -336,6 +336,6 @@ print(f"Predicted: {class_name}")
 
 ---
 
-**Last Updated:** Current Date
+**Last Updated:** December 2024
 **Project Status:** ✅ Working and tested
 

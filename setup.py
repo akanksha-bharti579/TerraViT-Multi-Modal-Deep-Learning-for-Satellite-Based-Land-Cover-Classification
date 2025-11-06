@@ -14,8 +14,8 @@ with open("requirements.txt", "r", encoding="utf-8") as fh:
 setup(
     name="terravit",
     version="1.0.0",
-    author="Computer Vision Research Group",
-    author_email="research@example.com",
+    author="Akanksha Bharti",
+    author_email="akankshabharti12379@gmail.com",
     description="Advanced multi-modal deep learning framework for satellite imagery analysis",
     long_description=long_description,
     long_description_content_type="text/markdown",

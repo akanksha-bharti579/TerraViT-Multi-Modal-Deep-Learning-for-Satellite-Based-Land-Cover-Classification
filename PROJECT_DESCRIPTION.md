@@ -178,6 +178,6 @@ TerraViT: A Dual-Stream Multi-Modal Deep Learning Framework for Robust Satellite
 
 ---
 
-**Last Updated**: Current Date
+**Last Updated**: December 2024
 **Project Status**: ✅ Complete and Ready for Submission
 
